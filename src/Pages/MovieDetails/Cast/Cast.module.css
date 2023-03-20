@@ -1,0 +1,10 @@
+.castList {
+    list-style-type: none;
+    font-size: 22px;
+    display: grid;
+    max-width: calc(100vw - 48px);
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-gap: 20px;
+    padding-left: 0;
+
+}

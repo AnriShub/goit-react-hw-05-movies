@@ -1,0 +1,72 @@
+.MovieDetails {
+    margin-top: 20px;
+}
+
+.but {
+    margin-bottom: 10px;
+    border-radius: 5px;
+    background-color: #fce704;
+    font-size: 15px;
+    font-weight: 600;
+    margin-right: 10px;
+    padding: 10px 14px 10px 14px;
+}
+
+.btns li a.active {
+    margin: 10px 0 10px 0;
+    padding-top: 8px;
+    text-align: center;
+    display: block;
+    width: 90px;
+    height: 30px;
+    background-color: #fc0000;
+    border-radius: 7px;
+    border: solid 1px;
+    color: #fdffff;
+    text-decoration: none;
+}
+
+.btns li a {
+    margin: 10px 0 10px 0;
+    padding-top: 8px;
+    text-align: center;
+    display: block;
+    width: 90px;
+    height: 30px;
+    background-color: #000e0c;
+    border-radius: 7px;
+    border: solid 1px;
+    color: #fdffff;
+    text-decoration: none;
+}
+
+.btns {
+    font-weight: 600;
+    list-style-type: none;
+    padding: 0;
+}
+
+/* .NavLink:link {
+    color: #fff;
+    font-size: 1.6rem;
+    line-height: 1.6rem;
+    text-decoration: none;
+}
+
+.NavLink:visited {
+    color: #fff;
+}
+
+.NavLink:hover {
+    color: yellow;
+}
+
+.NavLink:active {
+    color: rgb(245, 0, 0);
+}
+
+.activeRoute {
+    background-color: yellow;
+    border-bottom: 0.4rem solid teal;
+    cursor: not-allowed;
+} */
